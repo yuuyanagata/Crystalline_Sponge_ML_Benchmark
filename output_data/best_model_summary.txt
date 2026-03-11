@@ -1,0 +1,9 @@
+Best model summary
+==================
+Model: SVM
+Descriptor: MACCS
+Accuracy: 0.643 ± 0.038
+Precision: 0.646 ± 0.040
+Recall: 0.643 ± 0.038
+F1 score: 0.636 ± 0.037
+Representative best params: {"C": 10, "gamma": "auto"}
