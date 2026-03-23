@@ -162,7 +162,7 @@ def calculate_and_save_descriptors(smiles_list, output_file, descriptor_type):
 # =============================
 # Load input data
 # =============================
-INPUT_CSV = "CS_Booklet-2.csv"
+INPUT_CSV = "CS_Booklet.csv"
 
 try:
     smiles_data = pd.read_csv(INPUT_CSV)
